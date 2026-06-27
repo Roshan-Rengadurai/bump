@@ -1,0 +1,11 @@
+.DS_Store
+.build/
+build/
+dist/
+*.xcodeproj/xcuserdata/
+.swiftpm/
+.impeccable/
+spike/
+*.o
+.github/
+.vscode/
