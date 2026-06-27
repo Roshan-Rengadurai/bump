@@ -42,4 +42,3 @@ Or open `Package.swift` in Xcode and Run.
 ## Contributing
 
 PRs welcome. See [CONTRIBUTING.md](CONTRIBUTING.md). MIT licensed.
-# bump
